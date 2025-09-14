@@ -8,7 +8,7 @@ I’m currently contributing to:
 ---
 
 - Focus: robotics, embedded systems, and electronics
-- 🛠Experience with C/C++, Python, and hardware/software integration  
+- Experience with C/C++, Python, and hardware/software integration  
 - Interested in aerospace systems and robotics engineering 
 ---
 
