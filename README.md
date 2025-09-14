@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**AndrewWang001/AndrewWang001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Andrew**, studying **Mechatronics Engineering** at the **University of Waterloo**.  
 
-Here are some ideas to get you started:
+I’m currently contributing to:
+- 🚀 [Waterloo Rocketry](https://github.com/WaterlooRocketry) — Avionics & systems development  
+- 🛰️ [Waterloo Orbital Design Team](https://github.com/uworbital) — Guidance, navigation & control  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+- 🎓 Focus: robotics, embedded systems, and controls  
+- 🛠️ Experience with C/C++, Python, and hardware/software integration  
+- ⚡ Interested in aerospace systems, autonomy, and high-performance engineering  
+
+---
+
+### Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
+[![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.com)  
